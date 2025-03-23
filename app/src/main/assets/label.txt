@@ -1,0 +1,11 @@
+Yellow soil 
+Normal Soil 
+Cinder Soil 
+Clayey Soil
+Peat Soil
+Loamy Soil
+Soil Insects Soil
+Sandy Loam
+Sandy Soil
+Black Soil
+Laterite Soil
